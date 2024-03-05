@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "start": "bun run index.js ",
+    "mod": "bun run indexWithModules.js ",
     "dev": "bun run --hot index.js "
   },
   "dependencies": {
